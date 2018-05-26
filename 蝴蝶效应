@@ -42,3 +42,5 @@ anim = animation.FuncAnimation(fig, anmi, init_func=init,
                               frames=500, interval=2, blit=False,repeat=False)
 
 plt.show()
+
+--
